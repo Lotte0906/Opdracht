@@ -8,5 +8,5 @@ public class Main {
         System.out.print(" wordt 9 juni 26!\n\n"); // Dat is al meer dan een kwart eeuw
         System.out.println("Ik ben lid van het studentenoorkest cm"); // Collegium Musicum
         System.out.println("Want zingen is leuk!");
-        System.out.println("En de mensen zijn lief");
+        System.out.println("En de mensen zijn lief!");
     }}
